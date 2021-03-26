@@ -5,7 +5,7 @@ public class TheClass {
 		
 		System.out.println("From Eclipse to Git");
 		System.out.println("From Git to Eclipse");
-		// the function
+		// the function //the git
 	}
 
 }
